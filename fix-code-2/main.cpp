@@ -2,8 +2,8 @@
 #include <string>
 using namespace std;
 
-string_get_temperature() {
-  return string_get_temperature;
+string get_temperature() {
+  return "celcius";
 }
 
 int main() {
