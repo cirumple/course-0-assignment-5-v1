@@ -6,7 +6,7 @@ float Get_Temperature(int input) {
   return input * 100;
 }
 
-float Get_Temperature(float input) {
+float Get_Temperature(int input) {
   return input * 100;
 }
 
